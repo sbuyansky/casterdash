@@ -1,4 +1,4 @@
-SporCast
+Casterdash
 ========
 
-Sporcle Wrapper for Chromecast
+Balderdash-type game for Chromecast
